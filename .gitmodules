@@ -1,0 +1,6 @@
+[submodule "Gitgud/Browser User Interface/frontend"]
+	path = Gitgud/Browser User Interface/frontend
+	url = https://github.com/morgbn/vuetify-i18n-boilerplate
+[submodule "Gitgud/Browser User Interface/web"]
+	path = Gitgud/Browser User Interface/web
+	url = https://github.com/morgbn/vuetify-i18n-boilerplate

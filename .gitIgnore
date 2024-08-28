@@ -1,0 +1,5 @@
+# file: ~/.gitignore_global
+.idea
+/target
+/Gitgud/Repository Mining Service/REST Service/RESTEndpoint/src/main/resources/pydriller.csv
+/Gitgud/Repository Mining Service/REST Service/RESTEndpoint/src/main/resources/pydriller-hunks.csv
